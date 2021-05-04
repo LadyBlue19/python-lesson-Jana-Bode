@@ -1,6 +1,6 @@
 # Mein erstes Git Repo
 
-Hier sind meine Jupyter Notebooks
+Hier sind meine Jupyter Notebooks zu Python und Pandas
 
 ## Autorin: Jana Bode
 
